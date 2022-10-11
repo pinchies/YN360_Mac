@@ -42,8 +42,8 @@ If you are looking for a nice interface to control these lights, you may also li
 2. [Bleak bluetooth library](https://pypi.org/project/bleak/)
 
 ## Usage:
-1. Run the script to discover your device's bluetooth UUID.
-2. Replace the UUID in the other scripts with your device's UUID
+1. Run the "lights_scanbt.py" script to discover your device's bluetooth UUID.
+2. Replace the device UUID in the other py scripts with your device's UUID
 3. Run the script, with command line parameters to set the values of your light, e.g.:
 
 To set the power of the warm and cool tone LEDs to 25% and 40% respectively:
