@@ -1,7 +1,9 @@
 # YN360 Mac
 Example python scripts to control your Yongnuo RGB Lights from your Mac via Bluetooth Low-Energy on macOS.
 
-Similar to [Lantern library by Ken Keitner](https://github.com/kenkeiter/lantern/blob/master/lantern/color.py), and similar to my own [YN360_BTLE](https://github.com/pinchies/YN360_webbtle), these scripts enable you to control the lights from your Mac.
+Similar to [Lantern library by Ken Keitner](https://github.com/kenkeiter/lantern/blob/master/lantern/color.py), except this supports MacOS.
+
+If you are looking for a nice interface to control these lights, you may also like to check out my [YN360_BTLE project](https://github.com/pinchies/YN360_webbtle), which supports WebBT across multiple platforms, including the Chrome web browser on Mac.
 
 ## Supported Yongnuo devices with Bluetooth control
 ### RGB / White Light Wands
