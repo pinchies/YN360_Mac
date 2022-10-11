@@ -1,5 +1,5 @@
 # Bluetooth device name: "YONGNUO LED"
-deviceUUID = "F67B6113-9A20-4C78-8D2A-9C68BE3DD3D5"  # you need to use the lights_scanbt.py script to get the correct UUID for your lights.
+deviceUUID = "5D21F383-857D-F3E3-2F08-8C080C6835F2"  # you need to use the lights_scanbt.py script to get the correct UUID for your lights.
 primaryServiceUuid = 'f000aa60-0451-4000-b000-000000000000'
 receiveCharUuid = 'f000aa63-0451-4000-b000-000000000000'
 sendCharUuid = 'f000aa61-0451-4000-b000-000000000000'
