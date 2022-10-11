@@ -1,4 +1,4 @@
-# YN360 Mac
+# YN360 Bluetooth Control for Mac
 Example python scripts to control your Yongnuo RGB Lights from your Mac via Bluetooth Low-Energy on macOS.
 
 Similar to [Lantern library by Ken Keitner](https://github.com/kenkeiter/lantern/blob/master/lantern/color.py), except this supports MacOS.
