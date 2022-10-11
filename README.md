@@ -47,7 +47,9 @@ If you are looking for a nice interface to control these lights, you may also li
 3. Run the script, with command line parameters to set the values of your light, e.g.:
 
 To set the power of the warm and cool tone LEDs to 25% and 40% respectively:
-$ python3 lights_settone.py 25 40 
+
+`$ python3 lights_settone.py 25 40` 
 
 To set the colour RGB LEDs to 14% red, 30% green, and 60% blue:
-$ python3 lights_setrgb.py 14 30 60
+
+`$ python3 lights_setrgb.py 14 30 60`
